@@ -1,5 +1,7 @@
 package BTS;
 
+import org.testng.annotations.Test;
+
 public class Script01 
 {
 	@Test
